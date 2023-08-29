@@ -14,6 +14,10 @@ Objetivo: Este proyecto conciste en sensar la temperatura y humedad de un cuerto
 del cuarto en el que se trabaje, por si se encuentra fuera de los datos necesarios, realice el cerrado de un relevador para conducir corriente alterna para arrancar un ventilador
 que ayudara en sacar la humedad del cuarto ademas de abrir la puerta de acceso con un servo motor.
 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+La carpeta DTH11 contiene un fichero para probar el funcionamiento de tu sensor DTH11 como tambien la carpeta del servo, si desea probar tu relevador revisa el proyecto ESP32-LDR
+
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 Materiales necesarios:
@@ -27,3 +31,5 @@ Materiales necesarios:
 7.- Clavija.
 8.- Cable categoria 14.
 9.- Servo Motor.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
